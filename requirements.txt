@@ -1,0 +1,8 @@
+torch>=2.4
+transformers>=4.56,<6
+datasets>=3.0
+trl>=0.23
+peft>=0.17
+python-dotenv>=1.0
+# Optional for 4-bit QLoRA on supported platforms:
+# bitsandbytes>=0.45
